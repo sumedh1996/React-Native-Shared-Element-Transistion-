@@ -12,6 +12,7 @@
 
 1. ![screenshot1](./Public/Images/1_SC1.png)
 2. ![screenshot2](./Public/Images/1_SC2.png)
+<img src="./Public/Images/1_SC1.png" width=400 height=600>
 
 ### GIF
 
